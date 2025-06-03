@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Aparmit Srivastava, a passionate Full Stack Web Developer. I love building scalable web applications and solving algorithmic challenges.
+Hi there! I'm Aparmit Srivastava, a passionate Full Stack Web Developer. I love building scalable, efficient web applications and solving algorithmic challenges.
 
 
 # 💻 Tech Stack:
