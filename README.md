@@ -9,8 +9,8 @@ Hi there! I'm Aparmit Srivastava, a passionate Full Stack Web Developer. I love 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AparmitSrivastava&theme=white&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AparmitSrivastava&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AparmitSrivastava&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=AparmitSrivastava&theme=white&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AparmitSrivastava&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AparmitSrivastava&theme=radical&no-frame=false&no-bg=false&margin-w=4)
