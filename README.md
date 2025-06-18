@@ -2,9 +2,8 @@
 Hi there! I'm Aparmit Srivastava, a passionate Full Stack Web Developer. I love building scalable, efficient web applications and solving algorithmic challenges.
 
 # What I do:
--🌐 Web Development: I specialize in React, Next.js, Tailwind CSS, Node.js, and Express.js.
-
--🔧 Tech Stack: Java, JavaScript, TypeScript, MongoDB, MySQL, Firebase, Framer Motion, Socket.IO.
+- 🌐 Web Development: I specialize in React, Next.js, Tailwind CSS, Node.js, and Express.js.
+- 🔧 Tech Stack: Java, JavaScript, TypeScript, MongoDB, MySQL, Firebase, Framer Motion, Socket.IO.
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
