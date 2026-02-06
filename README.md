@@ -48,6 +48,14 @@ Hi there! I'm **Aparmit Srivastava**, a passionate **Full Stack Web Developer**.
 
 ---
 
+# 🤝 Let’s Connect
+
+- 📧 **Email:** aparmitsrvstv21@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aparmit-srivastava/ 
+- 🌐 **GitHub:** https://github.com/AparmitSrivastava
+
+---
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AparmitSrivastava&theme=white&hide_border=false&include_all_commits=true&count_private=true)
