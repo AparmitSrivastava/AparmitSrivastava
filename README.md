@@ -66,4 +66,4 @@ Hi there! I'm **Aparmit Srivastava**, a passionate **Full Stack Web Developer**.
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AparmitSrivastava&layout=compact&langs_count=8)
+![](https://readme-stats-fast.vercel.app/api/top-langs/?username=AparmitSrivastava&layout=compact)
