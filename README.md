@@ -66,6 +66,4 @@ Hi there! I'm **Aparmit Srivastava**, a passionate **Full Stack Web Developer**.
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AparmitSrivastava&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AparmitSrivastava&layout=compact&langs_count=8)
